@@ -1,4 +1,4 @@
-// This code is written for come out from any Maze with 2WD Car Ardunio project 
+// This code is written to come out from any Maze with 2WD Car Ardunio project 
 
 
 #include <SR04.h>
